@@ -37,14 +37,14 @@ const styles = StyleSheet.create({
     backgroundColor: colors.panel,
     borderColor: colors.line,
     borderWidth: 1,
-    borderRadius: 8,
+    borderRadius: 14,
     padding: 14,
     ...shadow
   },
   icon: {
     width: 34,
     height: 34,
-    borderRadius: 8,
+    borderRadius: 14,
     alignItems: "center",
     justifyContent: "center",
     marginBottom: 12
